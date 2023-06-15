@@ -1,4 +1,4 @@
-<h1 style="font-size: 1.2rem;"><strong>CMPT-363 Summer 2022</strong></h1>
+# CMPT-363-222
 
 - [Home](home)
 - [Course Welcome](course-welcome)
