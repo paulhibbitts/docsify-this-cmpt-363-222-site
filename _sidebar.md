@@ -1,4 +1,4 @@
-<h1 style="font-size: 1.2rem;"><strong>CMPT-363 Summer 2022</strong></h1>
+<h1 style="text-align:center;font-size: 1.6rem;"><strong>CMPT-363 Summer 2022</strong></h1>
 
 - [Course Welcome](course-welcome)
 - [Week 1 (May 10 - 15)](week-01)
