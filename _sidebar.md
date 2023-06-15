@@ -1,4 +1,4 @@
-# CMPT-363 Summer 2022
+<h1> CMPT-363 Summer 2022 </h1>
 
 - [Course Welcome](course-welcome)
 - [Week 1 (May 10 - 15)](week-01)
