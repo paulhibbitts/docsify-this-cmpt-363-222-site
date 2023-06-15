@@ -1,4 +1,4 @@
-# [CMPT-363-222](README)
+# CMPT-363-222
 
 - [Home](home)
 - [Course Welcome](course-welcome)
