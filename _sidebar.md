@@ -26,7 +26,7 @@
 <style>
   :root {
 
-    --link-color: #CC0633;
+    --link-color: #CC0633!important;
     --link-text-decoration: none;
     --link-text-decoration--hover: underline;
 
