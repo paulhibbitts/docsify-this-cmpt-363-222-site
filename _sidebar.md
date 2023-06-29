@@ -29,6 +29,8 @@
   :root {
 
     --link-color: #CC0633!important;
+    --navbar-root-color--active: #CC0633!important;
+    --blockquote-border-color: #757b7f!important;
     --link-text-decoration: none!important;
     --link-text-decoration--hover: underline!important;
 
