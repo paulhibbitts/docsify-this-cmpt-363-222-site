@@ -23,25 +23,27 @@
  - [![Grades Icon](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71)Grades](https://canvas.sfu.ca/courses/69678/gradebook)
  - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71)Syllabus](https://canvas.sfu.ca/courses/69678/assignments/syllabus)  
 
+ <br>
+
 <style>
   :root {
 
     --link-color: #CC0633!important;
-    --link-text-decoration: none;
-    --link-text-decoration--hover: underline;
+    --link-text-decoration: none!important;
+    --link-text-decoration--hover: underline!important;
 
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --link-color: #c8494f;
-      --sidebar-name-color: #c8494f;
-      --sidebar-nav-link-color: #b2b4b4;
-      --sidebar-nav-link-color--active: #c8494f;
-      --sidebar-nav-link-border-color--active: #c8494f;
-      --sidebar-nav-strong-color: #c8494f;
-      --navbar-root-color: #b2b4b4;
-      --navbar-root-color--active: #c8494f;
+      --link-color: #c8494f!important;
+      --sidebar-name-color: #c8494f!important;
+      --sidebar-nav-link-color: #b2b4b4!important;
+      --sidebar-nav-link-color--active: #c8494f!important;
+      --sidebar-nav-link-border-color--active: #c8494f!important;
+      --sidebar-nav-strong-color: #c8494f!important;
+      --navbar-root-color: #b2b4b4!important;
+      --navbar-root-color--active: #c8494f!important;
     }
   }
 
