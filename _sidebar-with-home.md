@@ -1,4 +1,4 @@
-# CMPT-363-222
+# CMPT-363-222 <!-- {docsify-ignore} -->
 
 - [Home](home)
 - [Course Welcome](course-welcome)
