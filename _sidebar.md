@@ -29,7 +29,6 @@
   :root {
 
     --link-color: #CC0633!important;
-    --sidebar-nav-link-color: #CC0633!important;
     --sidebar-nav-link-color--active: #CC0633!important;
     --sidebar-nav-link-border-color--active: #CC0633!important;
     --sidebar-nav-strong-color:  #CC0633!important;
@@ -43,10 +42,11 @@
   @media (prefers-color-scheme: dark) {
     :root {
       --link-color: #c8494f!important;
-      --sidebar-nav-link-color: #c8494f!important;
+      --sidebar-nav-link-color: #b2b4b4;
       --sidebar-nav-link-color--active: #c8494f!important;
       --sidebar-nav-link-border-color--active: #c8494f!important;
       --sidebar-nav-strong-color: #c8494f!important;
+      --navbar-root-color: #b2b4b4!important;
       --navbar-root-color--active: #c8494f!important;
     }
   }
