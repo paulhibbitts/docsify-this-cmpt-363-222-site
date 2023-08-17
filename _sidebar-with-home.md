@@ -56,6 +56,7 @@
 
   }
 
+  /*
   @media (prefers-color-scheme: dark) {
     :root {
 
@@ -86,5 +87,5 @@
 
     }
   }
-
+*/
 </style>
