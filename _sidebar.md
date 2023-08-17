@@ -54,7 +54,7 @@
     --pagination-title-color: #CC0633!important;
 
   }
-
+  /*
   @media (prefers-color-scheme: dark) {
     :root {
 
@@ -85,5 +85,5 @@
 
     }
   }
-
+  */
 </style>
