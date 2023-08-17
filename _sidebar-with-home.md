@@ -56,7 +56,7 @@
 
   }
 
-  /*
+  
   @media (prefers-color-scheme: dark) {
     :root {
 
@@ -72,8 +72,6 @@
     --navbar-root-color: #b2b4b4!important;
     --navbar-root-color--active: #EA7688!important;
 
-    --sidebar-nav-pagelink-background:
-        no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, #757575 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, #757575 2.75px 4.25px, transparent 4px)!important;
     --sidebar-nav-pagelink-background--active:
         no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, #EA7688 2.75px 4.25px, transparent 4.25px)!important;
     --sidebar-nav-pagelink-background--collapse:
@@ -87,5 +85,5 @@
 
     }
   }
-*/
+
 </style>
