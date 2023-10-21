@@ -1,5 +1,3 @@
-# CMPT-363-222 <!-- {docsify-ignore} -->
-
 - [Course Welcome](course-welcome)
 - [Week 1 (May 10 - 15)](week-01)
 - [Week 2 (May 16 - 22)](week-02)
