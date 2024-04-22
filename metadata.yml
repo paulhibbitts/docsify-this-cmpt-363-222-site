@@ -4,7 +4,7 @@ type: LearningResource
 name: CMPT-363 User Interface Design
 description: ''
 license: https://creativecommons.org/licenses/by/4.0/
-id: https://paulhibbitts.github.io/cmpt-363/
+id: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&loadNavbar=_navbar.md&sidebar=true&loadSidebar=_sidebar.md&loadFavicon=favicon.png&dark-mode=true&name=CMPT-363-222&search=true
 creator:
   - givenName: Paul
     familyName: Hibbitts
