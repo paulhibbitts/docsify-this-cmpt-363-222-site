@@ -26,12 +26,25 @@
 <style>
   :root {
 
+         // Change link text decoration if link-text-decoration parameter present
+      linktextdecoration = getURLParameterByName(['link-text-decoration', 'linkTextDecoration'], null, null, window.location.href, true);
+      if (!(linktextdecoration === false)) {
+        if (linktextdecoration === 'none') {
+          document.documentElement.style.setProperty('--link-underline-thickness', '0px');
+          document.documentElement.style.setProperty('--link-underline-color', 'transparent');
+        } else if (linktextdecoration === 'underline') {
+          document.documentElement.style.setProperty('--link-underline-thickness', '1px');
+          document.documentElement.style.setProperty('--link-underline-color', '--link-color');
+        }
+      }
+          
     --link-color: #CC0633!important;
     --link-text-decoration: none!important;
     --link-text-decoration--hover: underline!important;
 
     --theme-color: #CC0633!important;
     --link-underline-thickness: 0px!important;
+    --link-underline-color: transparent!important;
     --link-underline-thickness-hover: 1px!important;
   
     --sidebar-name-color: #CC0633!important;
