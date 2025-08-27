@@ -71,7 +71,7 @@
     --link-text-decoration--hover: underline!important;
 
     --sidebar-name-color: #EA7688!important;
-    --sidebar-nav-link-color:B2B4B4!important;
+    --sidebar-nav-link-color: #B2B4B4!important;
     --sidebar-nav-link-color--active: #EA7688!important;
     --sidebar-nav-link-border-color--active: #EA7688!important;
 
