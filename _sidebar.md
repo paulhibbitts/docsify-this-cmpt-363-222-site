@@ -26,7 +26,6 @@
 <style>
   :root {
 
-    --theme-color: #CC0633!important;
     --link-color: #CC0633!important;
     --link-text-decoration: none!important;
     --link-text-decoration--hover: underline!important;
