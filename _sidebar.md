@@ -31,8 +31,8 @@
     --link-text-decoration: none!important;
     --link-text-decoration--hover: underline!important;
 
-    --link-underline-color          : #CC0633!important;
-    --link-underline-thickness      : 0px!important;
+    --theme-color: #CC0633!important;
+    --link-underline-thickness: 0px!important;
   
     --sidebar-name-color: #CC0633!important;
     --sidebar-nav-link-color: #757575!important;
