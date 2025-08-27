@@ -25,7 +25,7 @@
 
 <style>
   :root {
-          
+
     --link-color: #CC0633!important;
     --link-text-decoration: none!important;
     --link-text-decoration--hover: underline!important;
@@ -33,6 +33,7 @@
     --theme-color: #CC0633!important;
     --link-underline-thickness: 0px!important;
     --link-underline-color: transparent!important;
+    --link-underline-color-hover: #CC0633!important;
     --link-underline-thickness-hover: 1px!important;
   
     --sidebar-name-color: #CC0633!important;
