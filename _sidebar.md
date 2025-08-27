@@ -33,6 +33,7 @@
 
     --theme-color: #CC0633!important;
     --link-underline-thickness: 0px!important;
+    --link-underline-thickness-hover: 1px!important;
   
     --sidebar-name-color: #CC0633!important;
     --sidebar-nav-link-color: #757575!important;
